@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-08022019-032050";"";
+"REFERENCE";"bva01-z0000-11";"";
+"TraceParts.PartTitle";"Vertical Power Entry Modules, bva01-z0000-11";"";
+"TraceParts.InstanceId";"90-08022019-0320502N3XX9WWY2MK673V115V3T3RA";"";
+"DESIGN";"Vertical Power Entry Modules, bva01-z0000-11";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Bulgin";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"BULGIN:90-08022019-032050";"";

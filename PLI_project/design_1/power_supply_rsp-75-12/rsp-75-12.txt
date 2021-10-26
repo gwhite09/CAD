@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.0.6";"";
+"SUPPLIER";"Mean Well";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-24112015-107245";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Mean Well, 75.6W Embedded Switch Mode Power Supply SMPS, 12V dc, Enclosed";"";
+"TraceParts.InstanceId";"10-24112015-107245BEKTBA3LNLO8OH532J9SY4AVU";"";
+"TraceParts.PartTitle";"Mean Well, 75.6W Embedded Switch Mode Power Supply SMPS, 12V dc, Enclosed";"";
+"REFERENCE";"RSP-75-12";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/8157416?cm_mmc=en-ds-_-mcad-_-traceparts-_-8157416'";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"rs_stock_number";"8157416";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:10-24112015-107245";"";

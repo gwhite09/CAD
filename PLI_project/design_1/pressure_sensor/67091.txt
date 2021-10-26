@@ -1,0 +1,17 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.0.3";"";
+"SUPPLIER";"RS Pro";"";
+"TraceParts.PartStatus";"Published";"";
+"RS_STOCK_NUMBER";"7975011";"";
+"REVISION";"A";"";
+"DESIGN";"Gauge Pressure Sensor, 6bar Max Pressure, 9 - 32 V dc";"";
+"TraceParts.InstanceId";"10-29022016-0942467T8L6B6G75VLUHA7WT5HTNX5Y";"";
+"TraceParts.PartTitle";"Gauge Pressure Sensor, 6bar Max Pressure, 9 - 32 V dc";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.PartNumber";"10-29022016-094246";"";
+"REFERENCE";"7975011";"";
+"TIMESTAMP";"19/2/2016 17:29:39";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.ClassPath";"/F_RS_COMPONENTS/PSSS_421167/PSS_421330/PSF_421350/";"";
